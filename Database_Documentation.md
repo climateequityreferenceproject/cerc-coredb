@@ -1,13 +1,13 @@
 ---
 title: 'The Climate Equity Reference Calculator core database'
 author:
-  - Christian Holz
+  - Ceecee Holz
   - Tom Athanasiou
   - Sivan Kartha
 date: 17 May 2022, v7.3.3
 geometry: a4paper, margin=1in
 linestretch: 1.1
-bibliography: Database_Documentation_v7.3.3.bib
+bibliography: Database_Documentation.bib
 csl: ieee-with-url-or-doi.csl
 ---
 The database for the _Climate Equity Reference Calculator_[^cerc-note] includes 197 countries: 196 of the 196 state parties[^eu-party-note] to the UNFCCC, plus Taiwan. Data for China, Macao, and Hong Kong, which are typically reported separately in most income and emissions databases, are combined.[^chk-gini-note] Likewise, we combine, where applicable, data for overseas dependencies of countries (e.g. we add Greenland and Faroe Island figures to Denmark).
